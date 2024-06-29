@@ -1,6 +1,6 @@
 # Bubble Game
 
-![Bubble Game](https://your-image-url.com) <!-- Replace with your project image URL -->
+![Bubble Game]((https://imgur.com/a5w7oXd)) <!-- Replace with your project image URL -->
 
 ## Description
 I created an interesting yet simple bubble game. Here you have a hit counter, a timer of 60 seconds, and a score that starts at 0. Whenever you click or hit the correct bubble, your score increases by 10. The game continues for 60 seconds, and you can keep increasing your score by hitting the correct bubble.
@@ -19,7 +19,7 @@ I created an interesting yet simple bubble game. Here you have a hit counter, a 
 
 ## Project Link
 Please find the project link below and share it with your friends:
-[Bubble Game Project](https://github.com/yourusername/bubble-game) <!-- Replace with your project link -->
+[Bubble Game Project] ((https://coderritika.github.io/Bubble_Event/)) <!-- Replace with your project link -->
 
 
 Thank you for checking out my project!
