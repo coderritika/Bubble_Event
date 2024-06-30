@@ -19,7 +19,7 @@ I created an interesting yet simple bubble game. Here you have a hit counter, a 
 
 ## Project Link
 Please find the project link below and share it with your friends:
-[Bubble Game Project]((https://coderritika.github.io/Bubble_Event/)) <!-- Replace with your project link -->
+![Bubble Game Project]((https://coderritika.github.io/Bubble_Event/)) <!-- Replace with your project link -->
 
 
 Thank you for checking out my project!
